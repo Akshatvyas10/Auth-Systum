@@ -9,8 +9,7 @@
  * from the client_secret.json file. To get these credentials for your application, visit
  * https://console.cloud.google.com/apis/credentials.
  */
-// const GOOGLE_CLIENT_ID = '188177420369-4euf5cq0dhcc8pl18t8ghe284rka9b6f.apps.googleusercontent.com';
-// const GOOGLE_CLIENT_SECRET = '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';
+
 import { google } from 'googleapis';
 import dotenv from 'dotenv'
 // Load environment variables from the .env file
